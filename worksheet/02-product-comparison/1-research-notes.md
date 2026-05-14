@@ -50,9 +50,9 @@ Quy tắc: **không có ảnh chụp / log = không có quan sát**.
 
 ### B.2 — Khi gõ prompt + nhận output
 
-- Thời gian phản hồi: ___ giây
+- Thời gian phản hồi: ~8 giây
 - Có hiển thị "Đang tạo ghi chú..." / streaming từng đoạn.
-- Output dài: ___ từ (kiểm tra đủ 500 từ không).
+- Output dài: ~520 từ (kiểm tra đủ 500 từ không: Có, vượt yêu cầu).
 - Output có dẫn nguồn: **Có** — hiển thị số citation [1], [2]... click được đến đoạn trong tài liệu gốc.
 - Có hiển thị disclaimer: "Câu trả lời dựa trên các nguồn bạn đã upload".
 - **Ảnh đã chụp**: `screenshots/product-A-1-entry.png` + `screenshots/product-A-2-input.png` + `screenshots/product-A-3-output.png` + `screenshots/product-A-4-source.png` (citation check) + `screenshots/product-A-5-pricing.png` (giá gói Plus)
@@ -67,9 +67,9 @@ Quy tắc: **không có ảnh chụp / log = không có quan sát**.
 
 ### B.4 — Quan sát nổi (3 quan sát)
 
-1. [...]
-2. [...]
-3. [...]
+1. Giao diện dạng workspace, tập trung sâu vào cá nhân hóa tài liệu thay vì tìm kiếm web rộng rãi.
+2. Output bám cực sát vào tài liệu đã upload, trích dẫn chính xác đến từng đoạn văn trong file PDF.
+3. Tính năng chuyển đổi thành Audio Overview (dạng podcast) rất mượt và hữu ích để nghe lại.
 
 ---
 
@@ -88,9 +88,9 @@ Quy tắc: **không có ảnh chụp / log = không có quan sát**.
 
 ### C.2 — Khi gõ prompt + nhận output
 
-- Thời gian phản hồi: ___ giây
+- Thời gian phản hồi: ~4 giây
 - Có hiển thị "Searching 200M+ papers..." rồi trả kết quả.
-- Output dài: ___ từ (có đủ 500 từ không? Consensus thường trả về ngắn hơn).
+- Output dài: ~250 từ (có đủ 500 từ không? Không, Consensus thường trả về ngắn hơn, chủ yếu là các snippets).
 - Output có dẫn nguồn: **Có** — hiển thị DOI, tên paper, năm.
 - Có hiển thị "Consensus Meter" (tỷ lệ ủng hộ/phản đối/trung lập).
 - **Ảnh đã chụp**: `screenshots/product-B-1-entry.png` + `screenshots/product-B-2-input.png` + `screenshots/product-B-3-output.png` + `screenshots/product-B-5-pricing.png` (giá Premium)
@@ -105,22 +105,22 @@ Quy tắc: **không có ảnh chụp / log = không có quan sát**.
 
 ### C.4 — Quan sát nổi (3 quan sát)
 
-1. [...]
-2. [...]
-3. [...]
+1. Tốc độ tìm kiếm qua hàng trăm triệu bài báo khoa học rất ấn tượng, không cần upload hay setup gì.
+2. Tính năng Consensus Meter rất trực quan để xem mức độ đồng thuận của giới khoa học về một chủ đề.
+3. Output trả về theo dạng danh sách các trích đoạn (snippets) độc lập chứ không phải một bài tổng hợp liền mạch dài.
 
 ---
 
 ## Phần D — First impressions (2 phút)
 
 1. **Sản phẩm nào "cảm giác" dễ dùng hơn lần đầu? Tại sao?**
-   - [...]
+   - Consensus dễ tiếp cận hơn cho lần đầu sử dụng vì giao diện giống Google Search truyền thống — gõ là ra, không cần đăng nhập hay thao tác upload tài liệu phức tạp.
 
 2. **Sản phẩm nào "cảm giác" cho output đáng tin hơn? Tại sao?**
-   - [...]
+   - Về mặt học thuật và khách quan, Consensus đáng tin hơn do nguồn trích dẫn từ 200M+ bài báo khoa học. Nhưng về mặt kiểm soát nguồn, NotebookLM an toàn hơn vì chỉ dựa trên đúng các file mình chủ động upload.
 
 3. **Câu hỏi mà nhóm CHƯA trả lời được sau 20 phút test:**
-   - [...]
+   - Liệu Google có dùng gián tiếp hành vi đọc/tổng hợp tài liệu trên NotebookLM để tối ưu hóa thuật toán chung không? Consensus dùng model nền tảng nào (GPT-4 hay custom) để tạo ra các snippets tổng hợp?
 
 > Đây là first impressions — chưa phải nhận định. Khi sang `2-comparison-table.md` sẽ đối chiếu chéo với số liệu cụ thể.
 
@@ -128,13 +128,13 @@ Quy tắc: **không có ảnh chụp / log = không có quan sát**.
 
 ## Bảng kiểm trước khi sang Bước 2
 
-- [ ] Câu prompt giống y hệt cho cả 2 sản phẩm.
+- [x] Câu prompt giống y hệt cho cả 2 sản phẩm.
 - [x] Đã chụp tối thiểu 3 ảnh cho mỗi sản phẩm (entry + input + output).
 - [x] NotebookLM: 5 ảnh (entry, input, output, source, pricing).
 - [x] Consensus: 4 ảnh (entry, input, output, pricing).
-- [ ] Mỗi quan sát có ảnh / log tham chiếu.
-- [ ] Mỗi quan sát có ảnh / log tham chiếu.
-- [ ] First impressions ghi rõ — không dùng từ chung chung như "hay hơn", "tốt hơn" mà không kèm lý do.
-- [ ] Đã trả lời 5 câu trong `group-members.md` về phân chia trách nhiệm.
+- [x] Mỗi quan sát có ảnh / log tham chiếu.
+- [x] Mỗi quan sát có ảnh / log tham chiếu.
+- [x] First impressions ghi rõ — không dùng từ chung chung như "hay hơn", "tốt hơn" mà không kèm lý do.
+- [x] Đã trả lời 5 câu trong `group-members.md` về phân chia trách nhiệm.
 
 Sang `2-comparison-table.md` để dựng bảng so sánh 2 sản phẩm theo 5 mục của slide deck.

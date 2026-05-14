@@ -1,9 +1,11 @@
-# Day 26 — A20-XXXXX [Họ tên]
+# Day 26 — Nhóm Ngọc & Quang
 
 ## Thông tin học viên
 
-- Mã học viên: A20-XXXXX
-- Họ tên: [...]
+- Mã học viên 1: 2A202600405
+- Họ tên 1: Nguyễn Thị Ngọc
+- Mã học viên 2: 2A202600167
+- Họ tên 2: Nguyễn Hữu Quang
 - Track: AI Product Strategy
 
 ## Kết quả cuối
