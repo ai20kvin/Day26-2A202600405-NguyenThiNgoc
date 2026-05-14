@@ -34,8 +34,8 @@ Quy tắc khi viết:
 
 | # | Tên nhóm / mã 2 học viên | Ngành | 2 sản phẩm họ test |
 |---|---|---|---|
-| 1 | Nhóm Hải & Linh | C — Viết lách | Jasper AI vs ChatGPT |
-| 2 | Nhóm Tuấn & Minh | B — Lập trình | GitHub Copilot vs Cursor |
+| 1 | Nhóm Thư | C — Viết lách | Jasper AI vs ChatGPT |
+| 2 | Nhóm Triển | B — Lập trình | GitHub Copilot vs Cursor |
 
 ---
 
