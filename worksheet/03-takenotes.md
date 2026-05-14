@@ -34,8 +34,8 @@ Quy tắc khi viết:
 
 | # | Tên nhóm / mã 2 học viên | Ngành | 2 sản phẩm họ test |
 |---|---|---|---|
-| 1 | Nhóm Thư | C — Viết lách | Jasper AI vs ChatGPT |
-| 2 | Nhóm Triển | B — Lập trình | GitHub Copilot vs Cursor |
+| 1 | Nhóm Thư - 2A202600210 - Nguyễn Thị Ngọc Thư - | C — Viết lách | Jasper AI vs ChatGPT |
+| 2 | Nhóm Triển - 2A202600320 - Trần Vọng Triển | B — Lập trình | GitHub Copilot vs Cursor |
 
 ---
 
