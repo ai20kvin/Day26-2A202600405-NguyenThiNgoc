@@ -115,11 +115,11 @@ Sau khi tìm đủ 4 nhóm số liệu, bạn gộp vào bảng dưới đây. M
 | S-02 | Sự kiện giảm sốc (cổ phiếu) | Rớt 48% trong 1 ngày, còn ~$9.08 | 02/05/2023 | [publishers weekly](https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/92179-ai-drops-chegg-stock-by-48.html) | Có |
 | S-03 | Big tech AI ra tính năng tương tự | ChatGPT ra mắt (OpenAI) | 30/11/2022 | [OpenAI Blog](https://openai.com/blog/chatgpt/) | Có |
 | S-04 | Sản phẩm AI của công ty ra mắt | CheggMate (hợp tác OpenAI) | Tháng 4/2023 | [Chegg Investor](https://investor.chegg.com/Press-Releases/press-release-details/2023/Chegg-announces-CheggMate-the-new-AI-companion-built-with-GPT-4/default.aspx) | Có |
-| S-05 | Khoảng cách thời gian (big tech AI → phản ứng) | ~5 tháng | | | Có |
+| S-05 | Khoảng cách thời gian (big tech AI → phản ứng) | ~5 tháng | | | Chưa tìm thấy link |
 | S-06 | Đợt sa thải / cắt giảm (2024) | 21% nhân sự (~441 người) | 11/2024 | [Reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/hit-by-ai-edtech-firm-chegg-slashes-jobs-names-new-ceo-major-overhaul-2025-10-27/) | Có |
 | S-07 | Người dùng đăng ký (Subscribers) | 7.7 triệu (giảm 6% YoY) | Cuối 2023 | [Chegg Investor](https://investor.chegg.com/Press-Releases/press-release-details/2024/Chegg-Reports-2023-Fourth-Quarter-and-Full-Year-Financial-Results/default.aspx) | Có |
 | S-08 | Đối thủ AI thay thế | ChatGPT, Google AI Overviews | 2022 - Nay | [WSJ](https://www.wsj.com/tech/ai/how-chatgpt-brought-down-an-online-education-giant-200b4ff2) | Có |
-| S-09 | Giá sản phẩm gốc vs big tech AI | ~$14.95 hoặc $19.95 vs $0 | | Website Chegg / OpenAI | Có |
+| S-09 | Giá sản phẩm gốc vs big tech AI | ~$14.95 hoặc $19.95 vs $0 | | Website Chegg / OpenAI | Chưa tìm thấy link |
 | S-10 | Đợt sa thải tiếp theo (2025) | 22% nhân sự (~248 người) | 05/2025 | [Reuters.com](https://www.reuters.com/world/americas/chegg-lay-off-22-workforce-ai-tools-shake-up-edtech-industry-2025-05-12/) | Có |
 
 Bổ sung dòng nếu bạn tìm thêm số liệu nào liên quan.
