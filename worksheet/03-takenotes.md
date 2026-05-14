@@ -43,12 +43,12 @@ Quy tắc khi viết:
 
 Góc nhìn / framework / case study mà nhóm khác đưa ra mà nhóm mình chưa nghĩ tới.
 
-**Quan sát 1** (từ nhóm: Hải & Linh):
+**Quan sát 1** (từ nhóm: Thư):
 
 - Cụ thể họ đưa ra: Nhóm bạn đã chỉ ra việc Jasper có workflow tích hợp sẵn các template cho SEO blog post rất chi tiết và công cụ định dạng giọng văn (Brand Voice), điều mà ChatGPT gốc không có sẵn.
 - Vì sao tôi thấy hay: Mình nhận ra "workflow" (luồng công việc) chính là lợi thế cạnh tranh cốt lõi của các ứng dụng wrapper để tạo ra "Switching Cost" so với các mô hình nền tảng chung chung.
 
-**Quan sát 2** (từ nhóm: Tuấn & Minh):
+**Quan sát 2** (từ nhóm: Triển):
 
 - Cụ thể họ đưa ra: Nhóm bạn demo tính năng "Composer" của Cursor có thể tự động chỉnh sửa nhiều file code cùng lúc dựa trên ngữ cảnh toàn bộ codebase của dự án.
 - Vì sao tôi thấy hay: Nó minh hoạ cực kỳ rõ ràng shift "Do the work for me" (tool → teammate). AI giờ đây không chỉ gợi ý từng dòng (như Copilot cũ) mà tự thực thi hành động ở quy mô toàn hệ thống.
@@ -59,13 +59,13 @@ Góc nhìn / framework / case study mà nhóm khác đưa ra mà nhóm mình ch�
 
 Bằng chứng yếu, lập luận lỏng, framework dùng sai. Chỉ rõ chỗ nào trong slide deck của nhóm khác.
 
-**Điểm yếu 1** (từ nhóm: Hải & Linh):
+**Điểm yếu 1** (từ nhóm: Thư):
 
 - Cụ thể: Ở slide Verdict, nhóm kết luận Jasper hoàn toàn "At Risk" và sắp phá sản vì ChatGPT đã có GPT-4 mạnh hơn.
 - Bằng chứng gì còn thiếu: Chưa có số liệu ARR (doanh thu) hiện tại của Jasper để chứng minh họ đang suy giảm thực sự ở tệp khách hàng doanh nghiệp (Enterprise).
 - Tôi sẽ đề xuất họ làm thêm gì: Tìm kiếm số liệu B2B revenue của Jasper hoặc tỷ lệ retention rate của khách hàng doanh nghiệp để có đánh giá đa chiều hơn.
 
-**Điểm yếu 2** (từ nhóm: Tuấn & Minh):
+**Điểm yếu 2** (từ nhóm: Triển):
 
 - Cụ thể: Ở phần định vị Cost-Capability-Speed, đánh giá GitHub Copilot "chậm hơn" Cursor chỉ qua cảm nhận cá nhân.
 - Bằng chứng gì còn thiếu: Không có benchmark cụ thể hay đo đạc độ trễ rõ ràng, không có video/ảnh chụp màn hình chứng minh tốc độ khác biệt trong cùng 1 bài test.
